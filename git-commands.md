@@ -32,4 +32,29 @@ This is going to your first commit, basically it suggests commitmenet!
 
 ` git commit -m "My First Commit in Github" `
 
+output: [master (root-commit) 8c57766] My First Commit in Github
+ 1 file changed, 35 insertions(+)
+ create mode 100644 git-commands.md
+
+35 insertions basically means words, and we have one fille in this folder, which is this file git commands.md
+
+### Add the origin
+
+` git remote add origin https://github.com/Kaveriiii/learn-git.git`
+
+Your folder doesn't know where our repository exist, so add this link. YOu have to only do this the first time you make a repository.ok
+
+### Now push to github
+
+
+` git push origin master `
+
+Basically you're pushing the committed changes to github
+I'll explain master later
+
+### Check Git status
+
+` git status `
+
+Since you made changes, you have to add and commit, then push again to make it upto date. You can do whenever you want. Save before adding. Else it won't be added
 
