@@ -5,7 +5,7 @@
 * Give Any name, doesn't matter the name of the folder or the name of the repository
 * Repository just means folder. Just another name for folder
 * Select Either Public or Private
-  1. Private Means No One Can Access Except You
+  1. Private Means No One Can Access Except your account
   2. Public means anyone can access over the web
 
 ## Initialise a Git Repository
